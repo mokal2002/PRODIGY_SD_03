@@ -1,4 +1,4 @@
-<h1>Contact Manager</h1><hr>
+<h1>Contact Manager</h1>
 
 This Java program is a console-based contact manager that allows users to add, view, edit, and delete contacts. The contacts are stored in a file so they can be persisted between program runs. Let's go through the main components of the program:
 
