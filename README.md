@@ -2,17 +2,17 @@
 
 # Project Folder Structure
 
-TASK3_ContactManager/
-├── out/
-│ └── production/
-│ └── TASK3_ContactManager/
-│ ├── Contact.class
-│ └── Main.class
-├── src/
-│ └── Main.java ##this is main file where code is writen
-├── TASK3_ContactManager.iml
-├── contacts.txt
-└── README.md
+TASK3_ContactManager/<br>
+├── out/<br>
+│ └── production/<br>
+│ └── TASK3_ContactManager/<br>
+│ ├── Contact.class<br>
+│ └── Main.class<br>
+├── src/<br>
+│ └── Main.java             ##this is main file where code is writen<br>
+├── TASK3_ContactManager.iml<br>
+├── contacts.txt<br>
+└── README.md<br>
  
 
     
