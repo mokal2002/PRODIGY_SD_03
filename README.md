@@ -9,7 +9,7 @@ TASK3_ContactManager/<br>
 │ ├── Contact.class<br>
 │ └── Main.class<br>
 ├── src/<br>
-│ └── Main.java             ##this is main file where code is writen<br>
+│ └── Main.java             <!-- This is a main code  --><br>
 ├── TASK3_ContactManager.iml<br>
 ├── contacts.txt<br>
 └── README.md<br>
